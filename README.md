@@ -23,22 +23,24 @@ My expertise lies in building scalable data models, designing interactive dashbo
 ### **Ebot Technosoft (2021 - 2026)**
 - Designed and maintained **end-to-end Power BI solutions** integrating claims, member, provider, and retail data.  
 - Built **interactive dashboards** to monitor KPIs such as claims turnaround, provider performance, member satisfaction, and inventory levels.  
-- Conducted **statistical analysis** (hypothesis testing, regression) to evaluate healthcare outcomes and program effectiveness.
+- Conducted **statistical analysis** (hypothesis testing, regression) to evaluate healthcare outcomes and program effectiveness.  
 - Collaborated with marketing and supply chain teams to align insights with campaigns and optimize stock levels.  
-- Documented Power BI data models, workflows, and DAX logic for scalability.
+- Documented Power BI data models, workflows, and DAX logic for scalability.  
+
+---
 
 ## 📊 Projects
 
 ### **IMOBISOFT – Digital Health System**
 - Built advanced analytics and automation solutions to modernize care delivery.  
 - Reduced inefficiencies and supported better treatment journeys with intuitive dashboards.  
-- Delivered insights to improve patient outcomes and optimize healthcare processes.
+- Delivered insights to improve patient outcomes and optimize healthcare processes.  
 
 ---
 
 ## 🎓 Education
 **B.E. Computer Science Engineering**  
-Ganadipathy Tulsi's Engineering College (2013 - 2017)
+Ganadipathy Tulsi's Engineering College (2013 - 2017)  
 
 ---
 
@@ -46,6 +48,8 @@ Ganadipathy Tulsi's Engineering College (2013 - 2017)
 - 📍 Chennai, India  
 - 📧 yuvarajkmurugan@gmail.com  
 - 📞 +91 9342131036  
+- 🌐 [Portfolio Website](https://yuvaraj-murugan.github.io/Yuvaraj-Portfolio/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yuvaraj-m-da)  
 
 ---
 
